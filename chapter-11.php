@@ -2,15 +2,15 @@
 
 // 11.1
 
-interface User 
-{
-    public function setGender(bool $isMale);
-    public function getGender();
+// interface User 
+// {
+//     public function setGender(bool $isMale);
+//     public function getGender();
     
-    public function setUsername($username);
-    public function getUsername();
+//     public function setUsername($username);
+//     public function getUsername();
 
-}
+// }
 
 Class Commentator implements User
 {
